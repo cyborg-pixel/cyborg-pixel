@@ -1,0 +1,28 @@
+{
+    "quizzes": [
+        {
+            "title": "Testfrågor",
+            "jsonFile": "questions_test2.json"
+        },
+        {
+            "title": "Kapitel 1",
+            "jsonFile": "questions_1.json",
+            "submenu": "Harrys Spanska"
+        },
+        {
+            "title": "Kapitel 1 Allmänt",
+            "jsonFile": "questions_1_misc.json",
+            "submenu": "Harrys Spanska"
+        },
+        {
+            "title": "Kapitel 2",
+            "jsonFile": "questions_2.json",
+            "submenu": "Harrys Spanska"
+        },
+        {
+            "title": "Kapitel 3",
+            "jsonFile": "questions_3.json",
+            "submenu": "Harrys Spanska"
+        }
+    ]
+}
