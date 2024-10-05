@@ -23,6 +23,11 @@
             "title": "Kapitel 3",
             "jsonFile": "questions_3.json",
             "submenu": "Harrys Spanska"
+        },
+        {
+            "title": "Ebbas Youtube-frågor",
+            "jsonFile": "questions_ebba_youtube.json",
+            "submenu": "Ebbas Quiz"
         }
     ]
 }
